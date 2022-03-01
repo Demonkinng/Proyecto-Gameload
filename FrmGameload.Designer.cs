@@ -51,6 +51,8 @@
             this.lblGameload = new System.Windows.Forms.Label();
             this.imgLogo = new System.Windows.Forms.PictureBox();
             this.panelContenedor = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblFecha = new System.Windows.Forms.Label();
             this.panelLateral.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -264,6 +266,8 @@
             // panelSuperior
             // 
             this.panelSuperior.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.panelSuperior.Controls.Add(this.lblFecha);
+            this.panelSuperior.Controls.Add(this.label1);
             this.panelSuperior.Controls.Add(this.lblSlogan);
             this.panelSuperior.Controls.Add(this.lblGameload);
             this.panelSuperior.Controls.Add(this.imgLogo);
@@ -310,6 +314,26 @@
             this.panelContenedor.Name = "panelContenedor";
             this.panelContenedor.Size = new System.Drawing.Size(599, 426);
             this.panelContenedor.TabIndex = 2;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Tempus Sans ITC", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(504, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(52, 20);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "Fecha";
+            // 
+            // lblFecha
+            // 
+            this.lblFecha.AutoSize = true;
+            this.lblFecha.Font = new System.Drawing.Font("Tempus Sans ITC", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFecha.Location = new System.Drawing.Point(491, 35);
+            this.lblFecha.Name = "lblFecha";
+            this.lblFecha.Size = new System.Drawing.Size(54, 20);
+            this.lblFecha.TabIndex = 5;
+            this.lblFecha.Text = "label2";
             // 
             // Gameload
             // 
@@ -364,6 +388,8 @@
         private System.Windows.Forms.Button btnAyuda;
         private System.Windows.Forms.Button btnCarrito;
         private System.Windows.Forms.Button btnInicio;
+        private System.Windows.Forms.Label lblFecha;
+        private System.Windows.Forms.Label label1;
     }
 }
 

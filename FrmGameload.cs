@@ -19,7 +19,7 @@ namespace Gameload_2
 
         private void Gameload_Load(object sender, EventArgs e)
         {
-
+            lblFecha.Text = DateTime.Today.Date.ToString("d");
         }
 
         private void txtNombre_KeyPress(object sender, KeyPressEventArgs e)
