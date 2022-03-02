@@ -10,6 +10,13 @@ using System.Windows.Forms;
 
 namespace Gameload_2
 {
+    struct Producto
+    {
+        public string nombre;
+        public string identificador;
+        public string categoria;
+        public float precioUnitario;
+    }
     public partial class Gameload : Form
     {
         public Gameload()
@@ -92,6 +99,11 @@ namespace Gameload_2
         private void btnAyuda_Click(object sender, EventArgs e)
         {
             AbrirFormularios<FrmAyuda>();
+        }
+
+        private void btnInicio_Click(object sender, EventArgs e)
+        {
+            AbrirFormularios<FrmInicio>();
         }
     }
 }

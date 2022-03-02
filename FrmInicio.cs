@@ -16,5 +16,20 @@ namespace Gameload_2
         {
             InitializeComponent();
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblFIFA22_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
