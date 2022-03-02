@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameload 2", "Gameload 2.csproj", "{E3BB86C3-C047-4B16-A090-6495ECD9BAED}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gameload Ejecutable", "..\Gameload Ejecutable\Gameload Ejecutable.vdproj", "{EB44FE45-01B9-48EB-BA65-38BBC03A94F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{E3BB86C3-C047-4B16-A090-6495ECD9BAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3BB86C3-C047-4B16-A090-6495ECD9BAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3BB86C3-C047-4B16-A090-6495ECD9BAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB44FE45-01B9-48EB-BA65-38BBC03A94F1}.Debug|Any CPU.ActiveCfg = Debug
+		{EB44FE45-01B9-48EB-BA65-38BBC03A94F1}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

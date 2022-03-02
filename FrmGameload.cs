@@ -27,7 +27,7 @@ namespace Gameload_2
     {
         public string nombre;
         public string apellido;
-        public int    cedula;
+        public string cedula;
     }
 
     struct Fecha
@@ -41,9 +41,9 @@ namespace Gameload_2
     {
         public Usuario usuario;
         public Fecha fecha;
-        public float subtotal;
-        public float IVA;
-        public float total;
+        public double subtotal;
+        public double IVA;
+        public double total;
     }
     public partial class Gameload : Form
     {
@@ -87,12 +87,6 @@ namespace Gameload_2
             }
         }
 
-        private void btnLimpiar_Click(object sender, EventArgs e)
-        {
-            txtNombre.Clear();
-            txtApellido.Clear();
-            txtCedula.Clear();
-        }
 
         private void AbrirFormularios<FormularioAbrir>() where FormularioAbrir : Form, new()
         {
@@ -132,11 +126,6 @@ namespace Gameload_2
         private void btnInicio_Click(object sender, EventArgs e)
         {
             AbrirFormularios<FrmInicio>();
-        }
-
-        private void btnCarrito_Click(object sender, EventArgs e)
-        {
-            AbrirFormularios<FrmCarrito>();
         }
     }
 }

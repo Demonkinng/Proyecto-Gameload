@@ -39,7 +39,7 @@ namespace Gameload_2
 
         private void btnFifa_Click_1(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto fifa = new Producto();
             fifa.nombre = lblFIFA22.Text;
             fifa.tipoJuego.nombre = lblCategoriaD1.Text;
@@ -55,7 +55,7 @@ namespace Gameload_2
 
         private void btnPes_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto pes = new Producto();
             pes.nombre = lblPes.Text;
             pes.tipoJuego.nombre = lblCategoriaD2.Text;
@@ -71,7 +71,7 @@ namespace Gameload_2
 
         private void btnUfc_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto ufc = new Producto();
             ufc.nombre = lblUfc.Text;
             ufc.tipoJuego.nombre = lblCategoriaD3.Text;
@@ -87,7 +87,7 @@ namespace Gameload_2
 
         private void btnNba_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto nba = new Producto();
             nba.nombre = lblNba.Text;
             nba.tipoJuego.nombre = lblCategoriaD4.Text;
@@ -103,7 +103,7 @@ namespace Gameload_2
 
         private void btnPubg_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto pubg = new Producto();
             pubg.nombre = lblPubg.Text;
             pubg.tipoJuego.nombre = lblCategoriaS1.Text;
@@ -119,7 +119,7 @@ namespace Gameload_2
 
         private void btnMinecraft_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto mnc = new Producto();
             mnc.nombre = lblMinecraft.Text;
             mnc.tipoJuego.nombre = lblCategoriaS2.Text;
@@ -135,7 +135,7 @@ namespace Gameload_2
 
         private void btnRust_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto rust = new Producto();
             rust.nombre = lblRust.Text;
             rust.tipoJuego.nombre = lblCategoriaS3.Text;
@@ -151,7 +151,7 @@ namespace Gameload_2
 
         private void btnArk_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto ark = new Producto();
             ark.nombre = lblArk.Text;
             ark.tipoJuego.nombre = lblCategoriaS4.Text;
@@ -167,7 +167,7 @@ namespace Gameload_2
 
         private void btnDbd_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto dbd = new Producto();
             dbd.nombre = lblDbd.Text;
             dbd.tipoJuego.nombre = lblCategoriaT1.Text;
@@ -183,7 +183,7 @@ namespace Gameload_2
 
         private void btnOtl_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto otl = new Producto();
             otl.nombre = lblOtl.Text;
             otl.tipoJuego.nombre = lblCategoriaT2.Text;
@@ -199,7 +199,7 @@ namespace Gameload_2
 
         private void btnRevil_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto revil = new Producto();
             revil.nombre = lblRevil.Text;
             revil.tipoJuego.nombre = lblCategoriaT3.Text;
@@ -215,7 +215,7 @@ namespace Gameload_2
 
         private void btnFnaf_Click(object sender, EventArgs e)
         {
-            FrmCarrito frm = new FrmCarrito();
+            FrmConfirmar frm = new FrmConfirmar();
             Producto fnaf = new Producto();
             fnaf.nombre = lblFnaf.Text;
             fnaf.tipoJuego.nombre = lblCategoriaT4.Text;
