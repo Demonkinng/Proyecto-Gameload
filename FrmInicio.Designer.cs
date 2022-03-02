@@ -33,124 +33,124 @@
             this.label1 = new System.Windows.Forms.Label();
             this.lblFIFA22 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.lblCateg = new System.Windows.Forms.Label();
-            this.lblCod = new System.Windows.Forms.Label();
-            this.lblCategoria = new System.Windows.Forms.Label();
-            this.lblCodigo = new System.Windows.Forms.Label();
+            this.btnFifa = new System.Windows.Forms.Button();
+            this.lblPrecioFifa = new System.Windows.Forms.Label();
             this.lblPrec = new System.Windows.Forms.Label();
-            this.lblPrecio = new System.Windows.Forms.Label();
+            this.lblCodigoFifa = new System.Windows.Forms.Label();
+            this.lblCategoriaD1 = new System.Windows.Forms.Label();
+            this.lblCod = new System.Windows.Forms.Label();
+            this.lblCateg = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
+            this.btnPes = new System.Windows.Forms.Button();
+            this.lblPrecioPes = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
+            this.lblCodigoPes = new System.Windows.Forms.Label();
+            this.lblCategoriaD2 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.lblPes = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.button3 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
+            this.btnUfc = new System.Windows.Forms.Button();
+            this.lblPrecioUfc = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
+            this.lblCodigoUfc = new System.Windows.Forms.Label();
+            this.lblCategoriaD3 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.label15 = new System.Windows.Forms.Label();
+            this.lblUfc = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.button4 = new System.Windows.Forms.Button();
-            this.label16 = new System.Windows.Forms.Label();
+            this.btnNba = new System.Windows.Forms.Button();
+            this.lblPrecioNba = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
+            this.lblCodigoNba = new System.Windows.Forms.Label();
+            this.lblCategoriaD4 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.label22 = new System.Windows.Forms.Label();
+            this.lblNba = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.button5 = new System.Windows.Forms.Button();
-            this.label24 = new System.Windows.Forms.Label();
+            this.btnArk = new System.Windows.Forms.Button();
+            this.lblPrecioArk = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
-            this.label27 = new System.Windows.Forms.Label();
+            this.lblCodigoArk = new System.Windows.Forms.Label();
+            this.lblCategoriaS4 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.label30 = new System.Windows.Forms.Label();
+            this.lblArk = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.button6 = new System.Windows.Forms.Button();
-            this.label31 = new System.Windows.Forms.Label();
+            this.btnRust = new System.Windows.Forms.Button();
+            this.lblPrecioRust = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
+            this.lblCodigoRust = new System.Windows.Forms.Label();
+            this.lblCategoriaS3 = new System.Windows.Forms.Label();
             this.label35 = new System.Windows.Forms.Label();
             this.label36 = new System.Windows.Forms.Label();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.label37 = new System.Windows.Forms.Label();
+            this.lblRust = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
-            this.button7 = new System.Windows.Forms.Button();
-            this.label38 = new System.Windows.Forms.Label();
+            this.btnMinecraft = new System.Windows.Forms.Button();
+            this.lblPrecioMinecraft = new System.Windows.Forms.Label();
             this.label39 = new System.Windows.Forms.Label();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
+            this.lblCodigoMinecraft = new System.Windows.Forms.Label();
+            this.lblCategoriaS2 = new System.Windows.Forms.Label();
             this.label42 = new System.Windows.Forms.Label();
             this.label43 = new System.Windows.Forms.Label();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.label44 = new System.Windows.Forms.Label();
+            this.lblMinecraft = new System.Windows.Forms.Label();
             this.panel8 = new System.Windows.Forms.Panel();
-            this.button8 = new System.Windows.Forms.Button();
-            this.label45 = new System.Windows.Forms.Label();
+            this.btnPubg = new System.Windows.Forms.Button();
+            this.lblPrecioPubg = new System.Windows.Forms.Label();
             this.label46 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.label48 = new System.Windows.Forms.Label();
+            this.lblCodigoPubg = new System.Windows.Forms.Label();
+            this.lblCategoriaS1 = new System.Windows.Forms.Label();
             this.label49 = new System.Windows.Forms.Label();
             this.label50 = new System.Windows.Forms.Label();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.label51 = new System.Windows.Forms.Label();
+            this.lblPubg = new System.Windows.Forms.Label();
             this.panel9 = new System.Windows.Forms.Panel();
-            this.button9 = new System.Windows.Forms.Button();
-            this.label52 = new System.Windows.Forms.Label();
+            this.btnFnaf = new System.Windows.Forms.Button();
+            this.lblPrecioFnaf = new System.Windows.Forms.Label();
             this.label53 = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
-            this.label55 = new System.Windows.Forms.Label();
+            this.lblCodigoFnaf = new System.Windows.Forms.Label();
+            this.lblCategoriaT4 = new System.Windows.Forms.Label();
             this.label56 = new System.Windows.Forms.Label();
             this.label57 = new System.Windows.Forms.Label();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.label58 = new System.Windows.Forms.Label();
+            this.lblFnaf = new System.Windows.Forms.Label();
             this.panel10 = new System.Windows.Forms.Panel();
-            this.button10 = new System.Windows.Forms.Button();
-            this.label59 = new System.Windows.Forms.Label();
+            this.btnRevil = new System.Windows.Forms.Button();
+            this.lblPrecioRevil = new System.Windows.Forms.Label();
             this.label60 = new System.Windows.Forms.Label();
-            this.label61 = new System.Windows.Forms.Label();
-            this.label62 = new System.Windows.Forms.Label();
+            this.lblCodigoRevil = new System.Windows.Forms.Label();
+            this.lblCategoriaT3 = new System.Windows.Forms.Label();
             this.label63 = new System.Windows.Forms.Label();
             this.label64 = new System.Windows.Forms.Label();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.label65 = new System.Windows.Forms.Label();
+            this.lblRevil = new System.Windows.Forms.Label();
             this.panel11 = new System.Windows.Forms.Panel();
-            this.button11 = new System.Windows.Forms.Button();
-            this.label66 = new System.Windows.Forms.Label();
+            this.btnOtl = new System.Windows.Forms.Button();
+            this.lblPrecioOut = new System.Windows.Forms.Label();
             this.label67 = new System.Windows.Forms.Label();
-            this.label68 = new System.Windows.Forms.Label();
-            this.label69 = new System.Windows.Forms.Label();
+            this.lblCodigoOut = new System.Windows.Forms.Label();
+            this.lblCategoriaT2 = new System.Windows.Forms.Label();
             this.label70 = new System.Windows.Forms.Label();
             this.label71 = new System.Windows.Forms.Label();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.label72 = new System.Windows.Forms.Label();
+            this.lblOtl = new System.Windows.Forms.Label();
             this.panel12 = new System.Windows.Forms.Panel();
-            this.button12 = new System.Windows.Forms.Button();
-            this.label73 = new System.Windows.Forms.Label();
+            this.btnDbd = new System.Windows.Forms.Button();
+            this.lblPrecioDbd = new System.Windows.Forms.Label();
             this.label74 = new System.Windows.Forms.Label();
-            this.label75 = new System.Windows.Forms.Label();
-            this.label76 = new System.Windows.Forms.Label();
+            this.lblCodigoDbd = new System.Windows.Forms.Label();
+            this.lblCategoriaT1 = new System.Windows.Forms.Label();
             this.label77 = new System.Windows.Forms.Label();
             this.label78 = new System.Windows.Forms.Label();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
-            this.label79 = new System.Windows.Forms.Label();
+            this.lblDbd = new System.Windows.Forms.Label();
             this.label80 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
@@ -214,11 +214,11 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel1.Controls.Add(this.button1);
-            this.panel1.Controls.Add(this.lblPrecio);
+            this.panel1.Controls.Add(this.btnFifa);
+            this.panel1.Controls.Add(this.lblPrecioFifa);
             this.panel1.Controls.Add(this.lblPrec);
-            this.panel1.Controls.Add(this.lblCodigo);
-            this.panel1.Controls.Add(this.lblCategoria);
+            this.panel1.Controls.Add(this.lblCodigoFifa);
+            this.panel1.Controls.Add(this.lblCategoriaD1);
             this.panel1.Controls.Add(this.lblCod);
             this.panel1.Controls.Add(this.lblCateg);
             this.panel1.Controls.Add(this.pictureBox1);
@@ -228,45 +228,25 @@
             this.panel1.Size = new System.Drawing.Size(137, 200);
             this.panel1.TabIndex = 4;
             // 
-            // lblCateg
+            // btnFifa
             // 
-            this.lblCateg.AutoSize = true;
-            this.lblCateg.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCateg.Location = new System.Drawing.Point(3, 105);
-            this.lblCateg.Name = "lblCateg";
-            this.lblCateg.Size = new System.Drawing.Size(63, 15);
-            this.lblCateg.TabIndex = 4;
-            this.lblCateg.Text = "Categoría:";
+            this.btnFifa.Location = new System.Drawing.Point(28, 169);
+            this.btnFifa.Name = "btnFifa";
+            this.btnFifa.Size = new System.Drawing.Size(82, 23);
+            this.btnFifa.TabIndex = 9;
+            this.btnFifa.Text = "AL CARRITO";
+            this.btnFifa.UseVisualStyleBackColor = true;
+            this.btnFifa.Click += new System.EventHandler(this.btnFifa_Click_1);
             // 
-            // lblCod
+            // lblPrecioFifa
             // 
-            this.lblCod.AutoSize = true;
-            this.lblCod.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCod.Location = new System.Drawing.Point(3, 129);
-            this.lblCod.Name = "lblCod";
-            this.lblCod.Size = new System.Drawing.Size(48, 15);
-            this.lblCod.TabIndex = 5;
-            this.lblCod.Text = "Código:";
-            // 
-            // lblCategoria
-            // 
-            this.lblCategoria.AutoSize = true;
-            this.lblCategoria.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCategoria.Location = new System.Drawing.Point(63, 105);
-            this.lblCategoria.Name = "lblCategoria";
-            this.lblCategoria.Size = new System.Drawing.Size(52, 15);
-            this.lblCategoria.TabIndex = 6;
-            this.lblCategoria.Text = "Deportes";
-            // 
-            // lblCodigo
-            // 
-            this.lblCodigo.AutoSize = true;
-            this.lblCodigo.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCodigo.Location = new System.Drawing.Point(63, 129);
-            this.lblCodigo.Name = "lblCodigo";
-            this.lblCodigo.Size = new System.Drawing.Size(47, 15);
-            this.lblCodigo.TabIndex = 7;
-            this.lblCodigo.Text = "DP5080";
+            this.lblPrecioFifa.AutoSize = true;
+            this.lblPrecioFifa.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioFifa.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioFifa.Name = "lblPrecioFifa";
+            this.lblPrecioFifa.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioFifa.TabIndex = 8;
+            this.lblPrecioFifa.Text = "30,00";
             // 
             // lblPrec
             // 
@@ -279,42 +259,82 @@
             this.lblPrec.Text = "Precio:";
             this.lblPrec.Click += new System.EventHandler(this.label5_Click);
             // 
-            // lblPrecio
+            // lblCodigoFifa
             // 
-            this.lblPrecio.AutoSize = true;
-            this.lblPrecio.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPrecio.Location = new System.Drawing.Point(63, 151);
-            this.lblPrecio.Name = "lblPrecio";
-            this.lblPrecio.Size = new System.Drawing.Size(43, 15);
-            this.lblPrecio.TabIndex = 8;
-            this.lblPrecio.Text = "$ 25.00";
+            this.lblCodigoFifa.AutoSize = true;
+            this.lblCodigoFifa.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoFifa.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoFifa.Name = "lblCodigoFifa";
+            this.lblCodigoFifa.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoFifa.TabIndex = 7;
+            this.lblCodigoFifa.Text = "DP5080";
+            // 
+            // lblCategoriaD1
+            // 
+            this.lblCategoriaD1.AutoSize = true;
+            this.lblCategoriaD1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaD1.Location = new System.Drawing.Point(63, 105);
+            this.lblCategoriaD1.Name = "lblCategoriaD1";
+            this.lblCategoriaD1.Size = new System.Drawing.Size(52, 15);
+            this.lblCategoriaD1.TabIndex = 6;
+            this.lblCategoriaD1.Text = "Deportes";
+            // 
+            // lblCod
+            // 
+            this.lblCod.AutoSize = true;
+            this.lblCod.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCod.Location = new System.Drawing.Point(3, 129);
+            this.lblCod.Name = "lblCod";
+            this.lblCod.Size = new System.Drawing.Size(48, 15);
+            this.lblCod.TabIndex = 5;
+            this.lblCod.Text = "Código:";
+            // 
+            // lblCateg
+            // 
+            this.lblCateg.AutoSize = true;
+            this.lblCateg.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCateg.Location = new System.Drawing.Point(3, 105);
+            this.lblCateg.Name = "lblCateg";
+            this.lblCateg.Size = new System.Drawing.Size(63, 15);
+            this.lblCateg.TabIndex = 4;
+            this.lblCateg.Text = "Categoría:";
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel2.Controls.Add(this.button2);
-            this.panel2.Controls.Add(this.label3);
+            this.panel2.Controls.Add(this.btnPes);
+            this.panel2.Controls.Add(this.lblPrecioPes);
             this.panel2.Controls.Add(this.label4);
-            this.panel2.Controls.Add(this.label5);
-            this.panel2.Controls.Add(this.label6);
+            this.panel2.Controls.Add(this.lblCodigoPes);
+            this.panel2.Controls.Add(this.lblCategoriaD2);
             this.panel2.Controls.Add(this.label8);
             this.panel2.Controls.Add(this.label9);
             this.panel2.Controls.Add(this.pictureBox2);
-            this.panel2.Controls.Add(this.label10);
+            this.panel2.Controls.Add(this.lblPes);
             this.panel2.Location = new System.Drawing.Point(162, 38);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(137, 200);
             this.panel2.TabIndex = 5;
             // 
-            // label3
+            // btnPes
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(63, 151);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(43, 15);
-            this.label3.TabIndex = 8;
-            this.label3.Text = "$ 20.00";
+            this.btnPes.Location = new System.Drawing.Point(30, 169);
+            this.btnPes.Name = "btnPes";
+            this.btnPes.Size = new System.Drawing.Size(82, 23);
+            this.btnPes.TabIndex = 10;
+            this.btnPes.Text = "AL CARRITO";
+            this.btnPes.UseVisualStyleBackColor = true;
+            this.btnPes.Click += new System.EventHandler(this.btnPes_Click);
+            // 
+            // lblPrecioPes
+            // 
+            this.lblPrecioPes.AutoSize = true;
+            this.lblPrecioPes.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioPes.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioPes.Name = "lblPrecioPes";
+            this.lblPrecioPes.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioPes.TabIndex = 8;
+            this.lblPrecioPes.Text = "30,00";
             // 
             // label4
             // 
@@ -326,26 +346,26 @@
             this.label4.TabIndex = 6;
             this.label4.Text = "Precio:";
             // 
-            // label5
+            // lblCodigoPes
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(63, 129);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(47, 15);
-            this.label5.TabIndex = 7;
-            this.label5.Text = "DP5085";
-            this.label5.Click += new System.EventHandler(this.label5_Click_1);
+            this.lblCodigoPes.AutoSize = true;
+            this.lblCodigoPes.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoPes.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoPes.Name = "lblCodigoPes";
+            this.lblCodigoPes.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoPes.TabIndex = 7;
+            this.lblCodigoPes.Text = "DP5085";
+            this.lblCodigoPes.Click += new System.EventHandler(this.label5_Click_1);
             // 
-            // label6
+            // lblCategoriaD2
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(63, 105);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(52, 15);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "Deportes";
+            this.lblCategoriaD2.AutoSize = true;
+            this.lblCategoriaD2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaD2.Location = new System.Drawing.Point(63, 105);
+            this.lblCategoriaD2.Name = "lblCategoriaD2";
+            this.lblCategoriaD2.Size = new System.Drawing.Size(52, 15);
+            this.lblCategoriaD2.TabIndex = 6;
+            this.lblCategoriaD2.Text = "Deportes";
             // 
             // label8
             // 
@@ -378,69 +398,52 @@
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
             // 
-            // label10
+            // lblPes
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(52, 89);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(47, 15);
-            this.label10.TabIndex = 3;
-            this.label10.Text = "PES 22";
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(28, 169);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(82, 23);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "AL CARRITO";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(30, 169);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(82, 23);
-            this.button2.TabIndex = 10;
-            this.button2.Text = "AL CARRITO";
-            this.button2.UseVisualStyleBackColor = true;
+            this.lblPes.AutoSize = true;
+            this.lblPes.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPes.Location = new System.Drawing.Point(52, 89);
+            this.lblPes.Name = "lblPes";
+            this.lblPes.Size = new System.Drawing.Size(47, 15);
+            this.lblPes.TabIndex = 3;
+            this.lblPes.Text = "PES 22";
             // 
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel3.Controls.Add(this.button3);
-            this.panel3.Controls.Add(this.label2);
+            this.panel3.Controls.Add(this.btnUfc);
+            this.panel3.Controls.Add(this.lblPrecioUfc);
             this.panel3.Controls.Add(this.label7);
-            this.panel3.Controls.Add(this.label11);
-            this.panel3.Controls.Add(this.label12);
+            this.panel3.Controls.Add(this.lblCodigoUfc);
+            this.panel3.Controls.Add(this.lblCategoriaD3);
             this.panel3.Controls.Add(this.label13);
             this.panel3.Controls.Add(this.label14);
             this.panel3.Controls.Add(this.pictureBox3);
-            this.panel3.Controls.Add(this.label15);
+            this.panel3.Controls.Add(this.lblUfc);
             this.panel3.Location = new System.Drawing.Point(309, 38);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(137, 200);
             this.panel3.TabIndex = 6;
             // 
-            // button3
+            // btnUfc
             // 
-            this.button3.Location = new System.Drawing.Point(32, 169);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(83, 23);
-            this.button3.TabIndex = 10;
-            this.button3.Text = "AL CARRITO";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnUfc.Location = new System.Drawing.Point(32, 169);
+            this.btnUfc.Name = "btnUfc";
+            this.btnUfc.Size = new System.Drawing.Size(83, 23);
+            this.btnUfc.TabIndex = 10;
+            this.btnUfc.Text = "AL CARRITO";
+            this.btnUfc.UseVisualStyleBackColor = true;
+            this.btnUfc.Click += new System.EventHandler(this.btnUfc_Click);
             // 
-            // label2
+            // lblPrecioUfc
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(68, 151);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(43, 15);
-            this.label2.TabIndex = 8;
-            this.label2.Text = "$ 20.00";
+            this.lblPrecioUfc.AutoSize = true;
+            this.lblPrecioUfc.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioUfc.Location = new System.Drawing.Point(68, 151);
+            this.lblPrecioUfc.Name = "lblPrecioUfc";
+            this.lblPrecioUfc.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioUfc.TabIndex = 8;
+            this.lblPrecioUfc.Text = "30,00";
             // 
             // label7
             // 
@@ -452,25 +455,25 @@
             this.label7.TabIndex = 6;
             this.label7.Text = "Precio:";
             // 
-            // label11
+            // lblCodigoUfc
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(68, 129);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(47, 15);
-            this.label11.TabIndex = 7;
-            this.label11.Text = "DP5090";
+            this.lblCodigoUfc.AutoSize = true;
+            this.lblCodigoUfc.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoUfc.Location = new System.Drawing.Point(68, 129);
+            this.lblCodigoUfc.Name = "lblCodigoUfc";
+            this.lblCodigoUfc.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoUfc.TabIndex = 7;
+            this.lblCodigoUfc.Text = "DP5090";
             // 
-            // label12
+            // lblCategoriaD3
             // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(66, 105);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(52, 15);
-            this.label12.TabIndex = 6;
-            this.label12.Text = "Deportes";
+            this.lblCategoriaD3.AutoSize = true;
+            this.lblCategoriaD3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaD3.Location = new System.Drawing.Point(66, 105);
+            this.lblCategoriaD3.Name = "lblCategoriaD3";
+            this.lblCategoriaD3.Size = new System.Drawing.Size(52, 15);
+            this.lblCategoriaD3.TabIndex = 6;
+            this.lblCategoriaD3.Text = "Deportes";
             // 
             // label13
             // 
@@ -503,51 +506,52 @@
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
             // 
-            // label15
+            // lblUfc
             // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(49, 90);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(41, 15);
-            this.label15.TabIndex = 3;
-            this.label15.Text = "UFC 3";
+            this.lblUfc.AutoSize = true;
+            this.lblUfc.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblUfc.Location = new System.Drawing.Point(49, 90);
+            this.lblUfc.Name = "lblUfc";
+            this.lblUfc.Size = new System.Drawing.Size(41, 15);
+            this.lblUfc.TabIndex = 3;
+            this.lblUfc.Text = "UFC 3";
             // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel4.Controls.Add(this.button4);
-            this.panel4.Controls.Add(this.label16);
+            this.panel4.Controls.Add(this.btnNba);
+            this.panel4.Controls.Add(this.lblPrecioNba);
             this.panel4.Controls.Add(this.label17);
-            this.panel4.Controls.Add(this.label18);
-            this.panel4.Controls.Add(this.label19);
+            this.panel4.Controls.Add(this.lblCodigoNba);
+            this.panel4.Controls.Add(this.lblCategoriaD4);
             this.panel4.Controls.Add(this.label20);
             this.panel4.Controls.Add(this.label21);
             this.panel4.Controls.Add(this.pictureBox4);
-            this.panel4.Controls.Add(this.label22);
+            this.panel4.Controls.Add(this.lblNba);
             this.panel4.Location = new System.Drawing.Point(457, 38);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(137, 200);
             this.panel4.TabIndex = 7;
             // 
-            // button4
+            // btnNba
             // 
-            this.button4.Location = new System.Drawing.Point(28, 169);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(82, 23);
-            this.button4.TabIndex = 9;
-            this.button4.Text = "AL CARRITO";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnNba.Location = new System.Drawing.Point(28, 169);
+            this.btnNba.Name = "btnNba";
+            this.btnNba.Size = new System.Drawing.Size(82, 23);
+            this.btnNba.TabIndex = 9;
+            this.btnNba.Text = "AL CARRITO";
+            this.btnNba.UseVisualStyleBackColor = true;
+            this.btnNba.Click += new System.EventHandler(this.btnNba_Click);
             // 
-            // label16
+            // lblPrecioNba
             // 
-            this.label16.AutoSize = true;
-            this.label16.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(63, 151);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(43, 15);
-            this.label16.TabIndex = 8;
-            this.label16.Text = "$ 25.00";
+            this.lblPrecioNba.AutoSize = true;
+            this.lblPrecioNba.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioNba.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioNba.Name = "lblPrecioNba";
+            this.lblPrecioNba.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioNba.TabIndex = 8;
+            this.lblPrecioNba.Text = "30,00";
             // 
             // label17
             // 
@@ -559,25 +563,25 @@
             this.label17.TabIndex = 6;
             this.label17.Text = "Precio:";
             // 
-            // label18
+            // lblCodigoNba
             // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(63, 129);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(47, 15);
-            this.label18.TabIndex = 7;
-            this.label18.Text = "DP5095";
+            this.lblCodigoNba.AutoSize = true;
+            this.lblCodigoNba.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoNba.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoNba.Name = "lblCodigoNba";
+            this.lblCodigoNba.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoNba.TabIndex = 7;
+            this.lblCodigoNba.Text = "DP5095";
             // 
-            // label19
+            // lblCategoriaD4
             // 
-            this.label19.AutoSize = true;
-            this.label19.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(63, 105);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(52, 15);
-            this.label19.TabIndex = 6;
-            this.label19.Text = "Deportes";
+            this.lblCategoriaD4.AutoSize = true;
+            this.lblCategoriaD4.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaD4.Location = new System.Drawing.Point(63, 105);
+            this.lblCategoriaD4.Name = "lblCategoriaD4";
+            this.lblCategoriaD4.Size = new System.Drawing.Size(52, 15);
+            this.lblCategoriaD4.TabIndex = 6;
+            this.lblCategoriaD4.Text = "Deportes";
             // 
             // label20
             // 
@@ -610,15 +614,15 @@
             this.pictureBox4.TabIndex = 0;
             this.pictureBox4.TabStop = false;
             // 
-            // label22
+            // lblNba
             // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(41, 90);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(65, 15);
-            this.label22.TabIndex = 3;
-            this.label22.Text = "NBA 2k21";
+            this.lblNba.AutoSize = true;
+            this.lblNba.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNba.Location = new System.Drawing.Point(41, 90);
+            this.lblNba.Name = "lblNba";
+            this.lblNba.Size = new System.Drawing.Size(65, 15);
+            this.lblNba.TabIndex = 3;
+            this.lblNba.Text = "NBA 2k21";
             // 
             // label23
             // 
@@ -634,38 +638,39 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel5.Controls.Add(this.button5);
-            this.panel5.Controls.Add(this.label24);
+            this.panel5.Controls.Add(this.btnArk);
+            this.panel5.Controls.Add(this.lblPrecioArk);
             this.panel5.Controls.Add(this.label25);
-            this.panel5.Controls.Add(this.label26);
-            this.panel5.Controls.Add(this.label27);
+            this.panel5.Controls.Add(this.lblCodigoArk);
+            this.panel5.Controls.Add(this.lblCategoriaS4);
             this.panel5.Controls.Add(this.label28);
             this.panel5.Controls.Add(this.label29);
             this.panel5.Controls.Add(this.pictureBox5);
-            this.panel5.Controls.Add(this.label30);
+            this.panel5.Controls.Add(this.lblArk);
             this.panel5.Location = new System.Drawing.Point(457, 293);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(137, 200);
             this.panel5.TabIndex = 12;
             // 
-            // button5
+            // btnArk
             // 
-            this.button5.Location = new System.Drawing.Point(33, 169);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(82, 23);
-            this.button5.TabIndex = 9;
-            this.button5.Text = "AL CARRITO";
-            this.button5.UseVisualStyleBackColor = true;
+            this.btnArk.Location = new System.Drawing.Point(33, 169);
+            this.btnArk.Name = "btnArk";
+            this.btnArk.Size = new System.Drawing.Size(82, 23);
+            this.btnArk.TabIndex = 9;
+            this.btnArk.Text = "AL CARRITO";
+            this.btnArk.UseVisualStyleBackColor = true;
+            this.btnArk.Click += new System.EventHandler(this.btnArk_Click);
             // 
-            // label24
+            // lblPrecioArk
             // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(63, 151);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(43, 15);
-            this.label24.TabIndex = 8;
-            this.label24.Text = "$ 27.00";
+            this.lblPrecioArk.AutoSize = true;
+            this.lblPrecioArk.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioArk.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioArk.Name = "lblPrecioArk";
+            this.lblPrecioArk.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioArk.TabIndex = 8;
+            this.lblPrecioArk.Text = "20,00";
             // 
             // label25
             // 
@@ -677,25 +682,25 @@
             this.label25.TabIndex = 6;
             this.label25.Text = "Precio:";
             // 
-            // label26
+            // lblCodigoArk
             // 
-            this.label26.AutoSize = true;
-            this.label26.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(63, 129);
-            this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(47, 15);
-            this.label26.TabIndex = 7;
-            this.label26.Text = "DP6095";
+            this.lblCodigoArk.AutoSize = true;
+            this.lblCodigoArk.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoArk.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoArk.Name = "lblCodigoArk";
+            this.lblCodigoArk.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoArk.TabIndex = 7;
+            this.lblCodigoArk.Text = "DP6095";
             // 
-            // label27
+            // lblCategoriaS4
             // 
-            this.label27.AutoSize = true;
-            this.label27.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label27.Location = new System.Drawing.Point(62, 105);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(74, 15);
-            this.label27.TabIndex = 6;
-            this.label27.Text = "Supervivencia";
+            this.lblCategoriaS4.AutoSize = true;
+            this.lblCategoriaS4.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaS4.Location = new System.Drawing.Point(62, 105);
+            this.lblCategoriaS4.Name = "lblCategoriaS4";
+            this.lblCategoriaS4.Size = new System.Drawing.Size(74, 15);
+            this.lblCategoriaS4.TabIndex = 6;
+            this.lblCategoriaS4.Text = "Supervivencia";
             // 
             // label28
             // 
@@ -728,51 +733,52 @@
             this.pictureBox5.TabIndex = 0;
             this.pictureBox5.TabStop = false;
             // 
-            // label30
+            // lblArk
             // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.Location = new System.Drawing.Point(55, 89);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(34, 15);
-            this.label30.TabIndex = 3;
-            this.label30.Text = "ARK";
+            this.lblArk.AutoSize = true;
+            this.lblArk.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblArk.Location = new System.Drawing.Point(55, 89);
+            this.lblArk.Name = "lblArk";
+            this.lblArk.Size = new System.Drawing.Size(34, 15);
+            this.lblArk.TabIndex = 3;
+            this.lblArk.Text = "ARK";
             // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel6.Controls.Add(this.button6);
-            this.panel6.Controls.Add(this.label31);
+            this.panel6.Controls.Add(this.btnRust);
+            this.panel6.Controls.Add(this.lblPrecioRust);
             this.panel6.Controls.Add(this.label32);
-            this.panel6.Controls.Add(this.label33);
-            this.panel6.Controls.Add(this.label34);
+            this.panel6.Controls.Add(this.lblCodigoRust);
+            this.panel6.Controls.Add(this.lblCategoriaS3);
             this.panel6.Controls.Add(this.label35);
             this.panel6.Controls.Add(this.label36);
             this.panel6.Controls.Add(this.pictureBox6);
-            this.panel6.Controls.Add(this.label37);
+            this.panel6.Controls.Add(this.lblRust);
             this.panel6.Location = new System.Drawing.Point(309, 293);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(137, 200);
             this.panel6.TabIndex = 11;
             // 
-            // button6
+            // btnRust
             // 
-            this.button6.Location = new System.Drawing.Point(28, 169);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(83, 23);
-            this.button6.TabIndex = 10;
-            this.button6.Text = "AL CARRITO";
-            this.button6.UseVisualStyleBackColor = true;
+            this.btnRust.Location = new System.Drawing.Point(28, 169);
+            this.btnRust.Name = "btnRust";
+            this.btnRust.Size = new System.Drawing.Size(83, 23);
+            this.btnRust.TabIndex = 10;
+            this.btnRust.Text = "AL CARRITO";
+            this.btnRust.UseVisualStyleBackColor = true;
+            this.btnRust.Click += new System.EventHandler(this.btnRust_Click);
             // 
-            // label31
+            // lblPrecioRust
             // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label31.Location = new System.Drawing.Point(63, 151);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(43, 15);
-            this.label31.TabIndex = 8;
-            this.label31.Text = "$ 22.00";
+            this.lblPrecioRust.AutoSize = true;
+            this.lblPrecioRust.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioRust.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioRust.Name = "lblPrecioRust";
+            this.lblPrecioRust.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioRust.TabIndex = 8;
+            this.lblPrecioRust.Text = "20,00";
             // 
             // label32
             // 
@@ -784,25 +790,25 @@
             this.label32.TabIndex = 6;
             this.label32.Text = "Precio:";
             // 
-            // label33
+            // lblCodigoRust
             // 
-            this.label33.AutoSize = true;
-            this.label33.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label33.Location = new System.Drawing.Point(63, 129);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(47, 15);
-            this.label33.TabIndex = 7;
-            this.label33.Text = "DP6090";
+            this.lblCodigoRust.AutoSize = true;
+            this.lblCodigoRust.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoRust.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoRust.Name = "lblCodigoRust";
+            this.lblCodigoRust.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoRust.TabIndex = 7;
+            this.lblCodigoRust.Text = "DP6090";
             // 
-            // label34
+            // lblCategoriaS3
             // 
-            this.label34.AutoSize = true;
-            this.label34.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label34.Location = new System.Drawing.Point(62, 105);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(74, 15);
-            this.label34.TabIndex = 6;
-            this.label34.Text = "Supervivencia";
+            this.lblCategoriaS3.AutoSize = true;
+            this.lblCategoriaS3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaS3.Location = new System.Drawing.Point(62, 105);
+            this.lblCategoriaS3.Name = "lblCategoriaS3";
+            this.lblCategoriaS3.Size = new System.Drawing.Size(74, 15);
+            this.lblCategoriaS3.TabIndex = 6;
+            this.lblCategoriaS3.Text = "Supervivencia";
             // 
             // label35
             // 
@@ -835,51 +841,52 @@
             this.pictureBox6.TabIndex = 0;
             this.pictureBox6.TabStop = false;
             // 
-            // label37
+            // lblRust
             // 
-            this.label37.AutoSize = true;
-            this.label37.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label37.Location = new System.Drawing.Point(49, 89);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(40, 15);
-            this.label37.TabIndex = 3;
-            this.label37.Text = "RUST";
+            this.lblRust.AutoSize = true;
+            this.lblRust.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRust.Location = new System.Drawing.Point(49, 89);
+            this.lblRust.Name = "lblRust";
+            this.lblRust.Size = new System.Drawing.Size(40, 15);
+            this.lblRust.TabIndex = 3;
+            this.lblRust.Text = "RUST";
             // 
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel7.Controls.Add(this.button7);
-            this.panel7.Controls.Add(this.label38);
+            this.panel7.Controls.Add(this.btnMinecraft);
+            this.panel7.Controls.Add(this.lblPrecioMinecraft);
             this.panel7.Controls.Add(this.label39);
-            this.panel7.Controls.Add(this.label40);
-            this.panel7.Controls.Add(this.label41);
+            this.panel7.Controls.Add(this.lblCodigoMinecraft);
+            this.panel7.Controls.Add(this.lblCategoriaS2);
             this.panel7.Controls.Add(this.label42);
             this.panel7.Controls.Add(this.label43);
             this.panel7.Controls.Add(this.pictureBox7);
-            this.panel7.Controls.Add(this.label44);
+            this.panel7.Controls.Add(this.lblMinecraft);
             this.panel7.Location = new System.Drawing.Point(162, 293);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(137, 200);
             this.panel7.TabIndex = 10;
             // 
-            // button7
+            // btnMinecraft
             // 
-            this.button7.Location = new System.Drawing.Point(30, 169);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(82, 23);
-            this.button7.TabIndex = 10;
-            this.button7.Text = "AL CARRITO";
-            this.button7.UseVisualStyleBackColor = true;
+            this.btnMinecraft.Location = new System.Drawing.Point(30, 169);
+            this.btnMinecraft.Name = "btnMinecraft";
+            this.btnMinecraft.Size = new System.Drawing.Size(82, 23);
+            this.btnMinecraft.TabIndex = 10;
+            this.btnMinecraft.Text = "AL CARRITO";
+            this.btnMinecraft.UseVisualStyleBackColor = true;
+            this.btnMinecraft.Click += new System.EventHandler(this.btnMinecraft_Click);
             // 
-            // label38
+            // lblPrecioMinecraft
             // 
-            this.label38.AutoSize = true;
-            this.label38.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label38.Location = new System.Drawing.Point(63, 151);
-            this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(43, 15);
-            this.label38.TabIndex = 8;
-            this.label38.Text = "$ 30.00";
+            this.lblPrecioMinecraft.AutoSize = true;
+            this.lblPrecioMinecraft.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioMinecraft.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioMinecraft.Name = "lblPrecioMinecraft";
+            this.lblPrecioMinecraft.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioMinecraft.TabIndex = 8;
+            this.lblPrecioMinecraft.Text = "20,00";
             // 
             // label39
             // 
@@ -891,25 +898,25 @@
             this.label39.TabIndex = 6;
             this.label39.Text = "Precio:";
             // 
-            // label40
+            // lblCodigoMinecraft
             // 
-            this.label40.AutoSize = true;
-            this.label40.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label40.Location = new System.Drawing.Point(63, 129);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(47, 15);
-            this.label40.TabIndex = 7;
-            this.label40.Text = "DP6085";
+            this.lblCodigoMinecraft.AutoSize = true;
+            this.lblCodigoMinecraft.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoMinecraft.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoMinecraft.Name = "lblCodigoMinecraft";
+            this.lblCodigoMinecraft.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoMinecraft.TabIndex = 7;
+            this.lblCodigoMinecraft.Text = "DP6085";
             // 
-            // label41
+            // lblCategoriaS2
             // 
-            this.label41.AutoSize = true;
-            this.label41.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label41.Location = new System.Drawing.Point(62, 105);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(74, 15);
-            this.label41.TabIndex = 6;
-            this.label41.Text = "Supervivencia";
+            this.lblCategoriaS2.AutoSize = true;
+            this.lblCategoriaS2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaS2.Location = new System.Drawing.Point(62, 105);
+            this.lblCategoriaS2.Name = "lblCategoriaS2";
+            this.lblCategoriaS2.Size = new System.Drawing.Size(74, 15);
+            this.lblCategoriaS2.TabIndex = 6;
+            this.lblCategoriaS2.Text = "Supervivencia";
             // 
             // label42
             // 
@@ -942,51 +949,52 @@
             this.pictureBox7.TabIndex = 0;
             this.pictureBox7.TabStop = false;
             // 
-            // label44
+            // lblMinecraft
             // 
-            this.label44.AutoSize = true;
-            this.label44.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label44.Location = new System.Drawing.Point(30, 89);
-            this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(80, 15);
-            this.label44.TabIndex = 3;
-            this.label44.Text = "MINECRAFT";
+            this.lblMinecraft.AutoSize = true;
+            this.lblMinecraft.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMinecraft.Location = new System.Drawing.Point(30, 89);
+            this.lblMinecraft.Name = "lblMinecraft";
+            this.lblMinecraft.Size = new System.Drawing.Size(80, 15);
+            this.lblMinecraft.TabIndex = 3;
+            this.lblMinecraft.Text = "MINECRAFT";
             // 
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel8.Controls.Add(this.button8);
-            this.panel8.Controls.Add(this.label45);
+            this.panel8.Controls.Add(this.btnPubg);
+            this.panel8.Controls.Add(this.lblPrecioPubg);
             this.panel8.Controls.Add(this.label46);
-            this.panel8.Controls.Add(this.label47);
-            this.panel8.Controls.Add(this.label48);
+            this.panel8.Controls.Add(this.lblCodigoPubg);
+            this.panel8.Controls.Add(this.lblCategoriaS1);
             this.panel8.Controls.Add(this.label49);
             this.panel8.Controls.Add(this.label50);
             this.panel8.Controls.Add(this.pictureBox8);
-            this.panel8.Controls.Add(this.label51);
+            this.panel8.Controls.Add(this.lblPubg);
             this.panel8.Location = new System.Drawing.Point(16, 293);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(137, 200);
             this.panel8.TabIndex = 9;
             // 
-            // button8
+            // btnPubg
             // 
-            this.button8.Location = new System.Drawing.Point(33, 169);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(82, 23);
-            this.button8.TabIndex = 9;
-            this.button8.Text = "AL CARRITO";
-            this.button8.UseVisualStyleBackColor = true;
+            this.btnPubg.Location = new System.Drawing.Point(33, 169);
+            this.btnPubg.Name = "btnPubg";
+            this.btnPubg.Size = new System.Drawing.Size(82, 23);
+            this.btnPubg.TabIndex = 9;
+            this.btnPubg.Text = "AL CARRITO";
+            this.btnPubg.UseVisualStyleBackColor = true;
+            this.btnPubg.Click += new System.EventHandler(this.btnPubg_Click);
             // 
-            // label45
+            // lblPrecioPubg
             // 
-            this.label45.AutoSize = true;
-            this.label45.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label45.Location = new System.Drawing.Point(63, 151);
-            this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(43, 15);
-            this.label45.TabIndex = 8;
-            this.label45.Text = "$ 00.00";
+            this.lblPrecioPubg.AutoSize = true;
+            this.lblPrecioPubg.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioPubg.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioPubg.Name = "lblPrecioPubg";
+            this.lblPrecioPubg.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioPubg.TabIndex = 8;
+            this.lblPrecioPubg.Text = "20,00";
             // 
             // label46
             // 
@@ -998,25 +1006,25 @@
             this.label46.TabIndex = 6;
             this.label46.Text = "Precio:";
             // 
-            // label47
+            // lblCodigoPubg
             // 
-            this.label47.AutoSize = true;
-            this.label47.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label47.Location = new System.Drawing.Point(63, 129);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(44, 15);
-            this.label47.TabIndex = 7;
-            this.label47.Text = "SP6080";
+            this.lblCodigoPubg.AutoSize = true;
+            this.lblCodigoPubg.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoPubg.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoPubg.Name = "lblCodigoPubg";
+            this.lblCodigoPubg.Size = new System.Drawing.Size(44, 15);
+            this.lblCodigoPubg.TabIndex = 7;
+            this.lblCodigoPubg.Text = "SP6080";
             // 
-            // label48
+            // lblCategoriaS1
             // 
-            this.label48.AutoSize = true;
-            this.label48.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label48.Location = new System.Drawing.Point(62, 105);
-            this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(74, 15);
-            this.label48.TabIndex = 6;
-            this.label48.Text = "Supervivencia";
+            this.lblCategoriaS1.AutoSize = true;
+            this.lblCategoriaS1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaS1.Location = new System.Drawing.Point(62, 105);
+            this.lblCategoriaS1.Name = "lblCategoriaS1";
+            this.lblCategoriaS1.Size = new System.Drawing.Size(74, 15);
+            this.lblCategoriaS1.TabIndex = 6;
+            this.lblCategoriaS1.Text = "Supervivencia";
             // 
             // label49
             // 
@@ -1049,51 +1057,52 @@
             this.pictureBox8.TabIndex = 0;
             this.pictureBox8.TabStop = false;
             // 
-            // label51
+            // lblPubg
             // 
-            this.label51.AutoSize = true;
-            this.label51.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label51.Location = new System.Drawing.Point(39, 89);
-            this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(41, 15);
-            this.label51.TabIndex = 3;
-            this.label51.Text = "PUBG";
+            this.lblPubg.AutoSize = true;
+            this.lblPubg.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPubg.Location = new System.Drawing.Point(47, 89);
+            this.lblPubg.Name = "lblPubg";
+            this.lblPubg.Size = new System.Drawing.Size(41, 15);
+            this.lblPubg.TabIndex = 3;
+            this.lblPubg.Text = "PUBG";
             // 
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel9.Controls.Add(this.button9);
-            this.panel9.Controls.Add(this.label52);
+            this.panel9.Controls.Add(this.btnFnaf);
+            this.panel9.Controls.Add(this.lblPrecioFnaf);
             this.panel9.Controls.Add(this.label53);
-            this.panel9.Controls.Add(this.label54);
-            this.panel9.Controls.Add(this.label55);
+            this.panel9.Controls.Add(this.lblCodigoFnaf);
+            this.panel9.Controls.Add(this.lblCategoriaT4);
             this.panel9.Controls.Add(this.label56);
             this.panel9.Controls.Add(this.label57);
             this.panel9.Controls.Add(this.pictureBox9);
-            this.panel9.Controls.Add(this.label58);
+            this.panel9.Controls.Add(this.lblFnaf);
             this.panel9.Location = new System.Drawing.Point(457, 543);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(137, 200);
             this.panel9.TabIndex = 17;
             // 
-            // button9
+            // btnFnaf
             // 
-            this.button9.Location = new System.Drawing.Point(32, 169);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(83, 23);
-            this.button9.TabIndex = 9;
-            this.button9.Text = "AL CARRITO";
-            this.button9.UseVisualStyleBackColor = true;
+            this.btnFnaf.Location = new System.Drawing.Point(32, 169);
+            this.btnFnaf.Name = "btnFnaf";
+            this.btnFnaf.Size = new System.Drawing.Size(83, 23);
+            this.btnFnaf.TabIndex = 9;
+            this.btnFnaf.Text = "AL CARRITO";
+            this.btnFnaf.UseVisualStyleBackColor = true;
+            this.btnFnaf.Click += new System.EventHandler(this.btnFnaf_Click);
             // 
-            // label52
+            // lblPrecioFnaf
             // 
-            this.label52.AutoSize = true;
-            this.label52.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label52.Location = new System.Drawing.Point(63, 151);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(43, 15);
-            this.label52.TabIndex = 8;
-            this.label52.Text = "$ 10.00";
+            this.lblPrecioFnaf.AutoSize = true;
+            this.lblPrecioFnaf.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioFnaf.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioFnaf.Name = "lblPrecioFnaf";
+            this.lblPrecioFnaf.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioFnaf.TabIndex = 8;
+            this.lblPrecioFnaf.Text = "15,00";
             // 
             // label53
             // 
@@ -1105,25 +1114,25 @@
             this.label53.TabIndex = 6;
             this.label53.Text = "Precio:";
             // 
-            // label54
+            // lblCodigoFnaf
             // 
-            this.label54.AutoSize = true;
-            this.label54.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label54.Location = new System.Drawing.Point(63, 129);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(47, 15);
-            this.label54.TabIndex = 7;
-            this.label54.Text = "TR7095";
+            this.lblCodigoFnaf.AutoSize = true;
+            this.lblCodigoFnaf.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoFnaf.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoFnaf.Name = "lblCodigoFnaf";
+            this.lblCodigoFnaf.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoFnaf.TabIndex = 7;
+            this.lblCodigoFnaf.Text = "TR7095";
             // 
-            // label55
+            // lblCategoriaT4
             // 
-            this.label55.AutoSize = true;
-            this.label55.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label55.Location = new System.Drawing.Point(63, 105);
-            this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(37, 15);
-            this.label55.TabIndex = 6;
-            this.label55.Text = "Terror";
+            this.lblCategoriaT4.AutoSize = true;
+            this.lblCategoriaT4.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaT4.Location = new System.Drawing.Point(63, 105);
+            this.lblCategoriaT4.Name = "lblCategoriaT4";
+            this.lblCategoriaT4.Size = new System.Drawing.Size(37, 15);
+            this.lblCategoriaT4.TabIndex = 6;
+            this.lblCategoriaT4.Text = "Terror";
             // 
             // label56
             // 
@@ -1156,51 +1165,52 @@
             this.pictureBox9.TabIndex = 0;
             this.pictureBox9.TabStop = false;
             // 
-            // label58
+            // lblFnaf
             // 
-            this.label58.AutoSize = true;
-            this.label58.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label58.Location = new System.Drawing.Point(49, 89);
-            this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(49, 15);
-            this.label58.TabIndex = 3;
-            this.label58.Text = "FNAF 3";
+            this.lblFnaf.AutoSize = true;
+            this.lblFnaf.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFnaf.Location = new System.Drawing.Point(49, 89);
+            this.lblFnaf.Name = "lblFnaf";
+            this.lblFnaf.Size = new System.Drawing.Size(49, 15);
+            this.lblFnaf.TabIndex = 3;
+            this.lblFnaf.Text = "FNAF 3";
             // 
             // panel10
             // 
             this.panel10.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel10.Controls.Add(this.button10);
-            this.panel10.Controls.Add(this.label59);
+            this.panel10.Controls.Add(this.btnRevil);
+            this.panel10.Controls.Add(this.lblPrecioRevil);
             this.panel10.Controls.Add(this.label60);
-            this.panel10.Controls.Add(this.label61);
-            this.panel10.Controls.Add(this.label62);
+            this.panel10.Controls.Add(this.lblCodigoRevil);
+            this.panel10.Controls.Add(this.lblCategoriaT3);
             this.panel10.Controls.Add(this.label63);
             this.panel10.Controls.Add(this.label64);
             this.panel10.Controls.Add(this.pictureBox10);
-            this.panel10.Controls.Add(this.label65);
+            this.panel10.Controls.Add(this.lblRevil);
             this.panel10.Location = new System.Drawing.Point(309, 543);
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(137, 200);
             this.panel10.TabIndex = 16;
             // 
-            // button10
+            // btnRevil
             // 
-            this.button10.Location = new System.Drawing.Point(27, 169);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(83, 23);
-            this.button10.TabIndex = 10;
-            this.button10.Text = "AL CARRITO";
-            this.button10.UseVisualStyleBackColor = true;
+            this.btnRevil.Location = new System.Drawing.Point(27, 169);
+            this.btnRevil.Name = "btnRevil";
+            this.btnRevil.Size = new System.Drawing.Size(83, 23);
+            this.btnRevil.TabIndex = 10;
+            this.btnRevil.Text = "AL CARRITO";
+            this.btnRevil.UseVisualStyleBackColor = true;
+            this.btnRevil.Click += new System.EventHandler(this.btnRevil_Click);
             // 
-            // label59
+            // lblPrecioRevil
             // 
-            this.label59.AutoSize = true;
-            this.label59.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label59.Location = new System.Drawing.Point(68, 151);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(43, 15);
-            this.label59.TabIndex = 8;
-            this.label59.Text = "$ 60.00";
+            this.lblPrecioRevil.AutoSize = true;
+            this.lblPrecioRevil.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioRevil.Location = new System.Drawing.Point(68, 151);
+            this.lblPrecioRevil.Name = "lblPrecioRevil";
+            this.lblPrecioRevil.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioRevil.TabIndex = 8;
+            this.lblPrecioRevil.Text = "15,00";
             // 
             // label60
             // 
@@ -1212,25 +1222,25 @@
             this.label60.TabIndex = 6;
             this.label60.Text = "Precio:";
             // 
-            // label61
+            // lblCodigoRevil
             // 
-            this.label61.AutoSize = true;
-            this.label61.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label61.Location = new System.Drawing.Point(68, 129);
-            this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(47, 15);
-            this.label61.TabIndex = 7;
-            this.label61.Text = "TR7090";
+            this.lblCodigoRevil.AutoSize = true;
+            this.lblCodigoRevil.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoRevil.Location = new System.Drawing.Point(68, 129);
+            this.lblCodigoRevil.Name = "lblCodigoRevil";
+            this.lblCodigoRevil.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoRevil.TabIndex = 7;
+            this.lblCodigoRevil.Text = "TR7090";
             // 
-            // label62
+            // lblCategoriaT3
             // 
-            this.label62.AutoSize = true;
-            this.label62.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label62.Location = new System.Drawing.Point(66, 105);
-            this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(37, 15);
-            this.label62.TabIndex = 6;
-            this.label62.Text = "Terror";
+            this.lblCategoriaT3.AutoSize = true;
+            this.lblCategoriaT3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaT3.Location = new System.Drawing.Point(66, 105);
+            this.lblCategoriaT3.Name = "lblCategoriaT3";
+            this.lblCategoriaT3.Size = new System.Drawing.Size(37, 15);
+            this.lblCategoriaT3.TabIndex = 6;
+            this.lblCategoriaT3.Text = "Terror";
             // 
             // label63
             // 
@@ -1263,51 +1273,52 @@
             this.pictureBox10.TabIndex = 0;
             this.pictureBox10.TabStop = false;
             // 
-            // label65
+            // lblRevil
             // 
-            this.label65.AutoSize = true;
-            this.label65.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label65.Location = new System.Drawing.Point(19, 90);
-            this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(99, 15);
-            this.label65.TabIndex = 3;
-            this.label65.Text = "RESIDENT EVIL";
+            this.lblRevil.AutoSize = true;
+            this.lblRevil.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRevil.Location = new System.Drawing.Point(19, 90);
+            this.lblRevil.Name = "lblRevil";
+            this.lblRevil.Size = new System.Drawing.Size(99, 15);
+            this.lblRevil.TabIndex = 3;
+            this.lblRevil.Text = "RESIDENT EVIL";
             // 
             // panel11
             // 
             this.panel11.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel11.Controls.Add(this.button11);
-            this.panel11.Controls.Add(this.label66);
+            this.panel11.Controls.Add(this.btnOtl);
+            this.panel11.Controls.Add(this.lblPrecioOut);
             this.panel11.Controls.Add(this.label67);
-            this.panel11.Controls.Add(this.label68);
-            this.panel11.Controls.Add(this.label69);
+            this.panel11.Controls.Add(this.lblCodigoOut);
+            this.panel11.Controls.Add(this.lblCategoriaT2);
             this.panel11.Controls.Add(this.label70);
             this.panel11.Controls.Add(this.label71);
             this.panel11.Controls.Add(this.pictureBox11);
-            this.panel11.Controls.Add(this.label72);
+            this.panel11.Controls.Add(this.lblOtl);
             this.panel11.Location = new System.Drawing.Point(162, 543);
             this.panel11.Name = "panel11";
             this.panel11.Size = new System.Drawing.Size(137, 200);
             this.panel11.TabIndex = 15;
             // 
-            // button11
+            // btnOtl
             // 
-            this.button11.Location = new System.Drawing.Point(30, 169);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(82, 23);
-            this.button11.TabIndex = 10;
-            this.button11.Text = "AL CARRITO";
-            this.button11.UseVisualStyleBackColor = true;
+            this.btnOtl.Location = new System.Drawing.Point(30, 169);
+            this.btnOtl.Name = "btnOtl";
+            this.btnOtl.Size = new System.Drawing.Size(82, 23);
+            this.btnOtl.TabIndex = 10;
+            this.btnOtl.Text = "AL CARRITO";
+            this.btnOtl.UseVisualStyleBackColor = true;
+            this.btnOtl.Click += new System.EventHandler(this.btnOtl_Click);
             // 
-            // label66
+            // lblPrecioOut
             // 
-            this.label66.AutoSize = true;
-            this.label66.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label66.Location = new System.Drawing.Point(63, 151);
-            this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(43, 15);
-            this.label66.TabIndex = 8;
-            this.label66.Text = "$ 20.00";
+            this.lblPrecioOut.AutoSize = true;
+            this.lblPrecioOut.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioOut.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioOut.Name = "lblPrecioOut";
+            this.lblPrecioOut.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioOut.TabIndex = 8;
+            this.lblPrecioOut.Text = "15,00";
             // 
             // label67
             // 
@@ -1319,25 +1330,25 @@
             this.label67.TabIndex = 6;
             this.label67.Text = "Precio:";
             // 
-            // label68
+            // lblCodigoOut
             // 
-            this.label68.AutoSize = true;
-            this.label68.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label68.Location = new System.Drawing.Point(63, 129);
-            this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(47, 15);
-            this.label68.TabIndex = 7;
-            this.label68.Text = "TR7085";
+            this.lblCodigoOut.AutoSize = true;
+            this.lblCodigoOut.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoOut.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoOut.Name = "lblCodigoOut";
+            this.lblCodigoOut.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoOut.TabIndex = 7;
+            this.lblCodigoOut.Text = "TR7085";
             // 
-            // label69
+            // lblCategoriaT2
             // 
-            this.label69.AutoSize = true;
-            this.label69.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label69.Location = new System.Drawing.Point(63, 105);
-            this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(37, 15);
-            this.label69.TabIndex = 6;
-            this.label69.Text = "Terror";
+            this.lblCategoriaT2.AutoSize = true;
+            this.lblCategoriaT2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaT2.Location = new System.Drawing.Point(63, 105);
+            this.lblCategoriaT2.Name = "lblCategoriaT2";
+            this.lblCategoriaT2.Size = new System.Drawing.Size(37, 15);
+            this.lblCategoriaT2.TabIndex = 6;
+            this.lblCategoriaT2.Text = "Terror";
             // 
             // label70
             // 
@@ -1370,51 +1381,52 @@
             this.pictureBox11.TabIndex = 0;
             this.pictureBox11.TabStop = false;
             // 
-            // label72
+            // lblOtl
             // 
-            this.label72.AutoSize = true;
-            this.label72.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label72.Location = new System.Drawing.Point(33, 89);
-            this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(69, 15);
-            this.label72.TabIndex = 3;
-            this.label72.Text = "OUT LAST";
+            this.lblOtl.AutoSize = true;
+            this.lblOtl.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblOtl.Location = new System.Drawing.Point(33, 89);
+            this.lblOtl.Name = "lblOtl";
+            this.lblOtl.Size = new System.Drawing.Size(69, 15);
+            this.lblOtl.TabIndex = 3;
+            this.lblOtl.Text = "OUT LAST";
             // 
             // panel12
             // 
             this.panel12.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel12.Controls.Add(this.button12);
-            this.panel12.Controls.Add(this.label73);
+            this.panel12.Controls.Add(this.btnDbd);
+            this.panel12.Controls.Add(this.lblPrecioDbd);
             this.panel12.Controls.Add(this.label74);
-            this.panel12.Controls.Add(this.label75);
-            this.panel12.Controls.Add(this.label76);
+            this.panel12.Controls.Add(this.lblCodigoDbd);
+            this.panel12.Controls.Add(this.lblCategoriaT1);
             this.panel12.Controls.Add(this.label77);
             this.panel12.Controls.Add(this.label78);
             this.panel12.Controls.Add(this.pictureBox12);
-            this.panel12.Controls.Add(this.label79);
+            this.panel12.Controls.Add(this.lblDbd);
             this.panel12.Location = new System.Drawing.Point(16, 543);
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(137, 200);
             this.panel12.TabIndex = 14;
             // 
-            // button12
+            // btnDbd
             // 
-            this.button12.Location = new System.Drawing.Point(28, 169);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(82, 23);
-            this.button12.TabIndex = 9;
-            this.button12.Text = "AL CARRITO";
-            this.button12.UseVisualStyleBackColor = true;
+            this.btnDbd.Location = new System.Drawing.Point(28, 169);
+            this.btnDbd.Name = "btnDbd";
+            this.btnDbd.Size = new System.Drawing.Size(82, 23);
+            this.btnDbd.TabIndex = 9;
+            this.btnDbd.Text = "AL CARRITO";
+            this.btnDbd.UseVisualStyleBackColor = true;
+            this.btnDbd.Click += new System.EventHandler(this.btnDbd_Click);
             // 
-            // label73
+            // lblPrecioDbd
             // 
-            this.label73.AutoSize = true;
-            this.label73.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label73.Location = new System.Drawing.Point(63, 151);
-            this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(43, 15);
-            this.label73.TabIndex = 8;
-            this.label73.Text = "$ 20.00";
+            this.lblPrecioDbd.AutoSize = true;
+            this.lblPrecioDbd.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecioDbd.Location = new System.Drawing.Point(63, 151);
+            this.lblPrecioDbd.Name = "lblPrecioDbd";
+            this.lblPrecioDbd.Size = new System.Drawing.Size(34, 15);
+            this.lblPrecioDbd.TabIndex = 8;
+            this.lblPrecioDbd.Text = "15,00";
             // 
             // label74
             // 
@@ -1426,25 +1438,25 @@
             this.label74.TabIndex = 6;
             this.label74.Text = "Precio:";
             // 
-            // label75
+            // lblCodigoDbd
             // 
-            this.label75.AutoSize = true;
-            this.label75.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label75.Location = new System.Drawing.Point(63, 129);
-            this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(47, 15);
-            this.label75.TabIndex = 7;
-            this.label75.Text = "TR7080";
+            this.lblCodigoDbd.AutoSize = true;
+            this.lblCodigoDbd.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigoDbd.Location = new System.Drawing.Point(63, 129);
+            this.lblCodigoDbd.Name = "lblCodigoDbd";
+            this.lblCodigoDbd.Size = new System.Drawing.Size(47, 15);
+            this.lblCodigoDbd.TabIndex = 7;
+            this.lblCodigoDbd.Text = "TR7080";
             // 
-            // label76
+            // lblCategoriaT1
             // 
-            this.label76.AutoSize = true;
-            this.label76.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label76.Location = new System.Drawing.Point(63, 105);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(37, 15);
-            this.label76.TabIndex = 6;
-            this.label76.Text = "Terror";
+            this.lblCategoriaT1.AutoSize = true;
+            this.lblCategoriaT1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCategoriaT1.Location = new System.Drawing.Point(63, 105);
+            this.lblCategoriaT1.Name = "lblCategoriaT1";
+            this.lblCategoriaT1.Size = new System.Drawing.Size(37, 15);
+            this.lblCategoriaT1.TabIndex = 6;
+            this.lblCategoriaT1.Text = "Terror";
             // 
             // label77
             // 
@@ -1477,15 +1489,15 @@
             this.pictureBox12.TabIndex = 0;
             this.pictureBox12.TabStop = false;
             // 
-            // label79
+            // lblDbd
             // 
-            this.label79.AutoSize = true;
-            this.label79.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label79.Location = new System.Drawing.Point(7, 89);
-            this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(127, 15);
-            this.label79.TabIndex = 3;
-            this.label79.Text = "DEAD BY DAYLIGTH";
+            this.lblDbd.AutoSize = true;
+            this.lblDbd.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDbd.Location = new System.Drawing.Point(7, 89);
+            this.lblDbd.Name = "lblDbd";
+            this.lblDbd.Size = new System.Drawing.Size(127, 15);
+            this.lblDbd.TabIndex = 3;
+            this.lblDbd.Text = "DEAD BY DAYLIGTH";
             // 
             // label80
             // 
@@ -1567,126 +1579,126 @@
 
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label lblFIFA22;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label lblPrec;
-        private System.Windows.Forms.Label lblCodigo;
-        private System.Windows.Forms.Label lblCategoria;
         private System.Windows.Forms.Label lblCod;
         private System.Windows.Forms.Label lblCateg;
-        private System.Windows.Forms.Label lblPrecio;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnFifa;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnPes;
+        private System.Windows.Forms.Label lblPrecioPes;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label lblCodigoPes;
+        private System.Windows.Forms.Label lblCategoriaD2;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label lblPes;
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnUfc;
+        private System.Windows.Forms.Label lblPrecioUfc;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label lblCodigoUfc;
+        private System.Windows.Forms.Label lblCategoriaD3;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label lblUfc;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Button btnNba;
+        private System.Windows.Forms.Label lblPrecioNba;
         private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Label lblCodigoNba;
+        private System.Windows.Forms.Label lblCategoriaD4;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Label lblNba;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.Button btnArk;
+        private System.Windows.Forms.Label lblPrecioArk;
         private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.Label lblCodigoArk;
+        private System.Windows.Forms.Label lblCategoriaS4;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label lblArk;
         private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Button btnRust;
+        private System.Windows.Forms.Label lblPrecioRust;
         private System.Windows.Forms.Label label32;
-        private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.Label label34;
+        private System.Windows.Forms.Label lblCodigoRust;
+        private System.Windows.Forms.Label lblCategoriaS3;
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.Label lblRust;
         private System.Windows.Forms.Panel panel7;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Button btnMinecraft;
+        private System.Windows.Forms.Label lblPrecioMinecraft;
         private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.Label label41;
+        private System.Windows.Forms.Label lblCodigoMinecraft;
+        private System.Windows.Forms.Label lblCategoriaS2;
         private System.Windows.Forms.Label label42;
         private System.Windows.Forms.Label label43;
         private System.Windows.Forms.PictureBox pictureBox7;
-        private System.Windows.Forms.Label label44;
+        private System.Windows.Forms.Label lblMinecraft;
         private System.Windows.Forms.Panel panel8;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Label label45;
+        private System.Windows.Forms.Button btnPubg;
+        private System.Windows.Forms.Label lblPrecioPubg;
         private System.Windows.Forms.Label label46;
-        private System.Windows.Forms.Label label47;
-        private System.Windows.Forms.Label label48;
+        private System.Windows.Forms.Label lblCodigoPubg;
+        private System.Windows.Forms.Label lblCategoriaS1;
         private System.Windows.Forms.Label label49;
         private System.Windows.Forms.Label label50;
         private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.Label label51;
+        private System.Windows.Forms.Label lblPubg;
         private System.Windows.Forms.Panel panel9;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Label label52;
+        private System.Windows.Forms.Button btnFnaf;
+        private System.Windows.Forms.Label lblPrecioFnaf;
         private System.Windows.Forms.Label label53;
-        private System.Windows.Forms.Label label54;
-        private System.Windows.Forms.Label label55;
+        private System.Windows.Forms.Label lblCodigoFnaf;
+        private System.Windows.Forms.Label lblCategoriaT4;
         private System.Windows.Forms.Label label56;
         private System.Windows.Forms.Label label57;
         private System.Windows.Forms.PictureBox pictureBox9;
-        private System.Windows.Forms.Label label58;
+        private System.Windows.Forms.Label lblFnaf;
         private System.Windows.Forms.Panel panel10;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Label label59;
+        private System.Windows.Forms.Button btnRevil;
+        private System.Windows.Forms.Label lblPrecioRevil;
         private System.Windows.Forms.Label label60;
-        private System.Windows.Forms.Label label61;
-        private System.Windows.Forms.Label label62;
+        private System.Windows.Forms.Label lblCodigoRevil;
+        private System.Windows.Forms.Label lblCategoriaT3;
         private System.Windows.Forms.Label label63;
         private System.Windows.Forms.Label label64;
         private System.Windows.Forms.PictureBox pictureBox10;
-        private System.Windows.Forms.Label label65;
+        private System.Windows.Forms.Label lblRevil;
         private System.Windows.Forms.Panel panel11;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Label label66;
+        private System.Windows.Forms.Button btnOtl;
+        private System.Windows.Forms.Label lblPrecioOut;
         private System.Windows.Forms.Label label67;
-        private System.Windows.Forms.Label label68;
-        private System.Windows.Forms.Label label69;
+        private System.Windows.Forms.Label lblCodigoOut;
+        private System.Windows.Forms.Label lblCategoriaT2;
         private System.Windows.Forms.Label label70;
         private System.Windows.Forms.Label label71;
         private System.Windows.Forms.PictureBox pictureBox11;
-        private System.Windows.Forms.Label label72;
+        private System.Windows.Forms.Label lblOtl;
         private System.Windows.Forms.Panel panel12;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Label label73;
+        private System.Windows.Forms.Button btnDbd;
+        private System.Windows.Forms.Label lblPrecioDbd;
         private System.Windows.Forms.Label label74;
-        private System.Windows.Forms.Label label75;
-        private System.Windows.Forms.Label label76;
+        private System.Windows.Forms.Label lblCodigoDbd;
+        private System.Windows.Forms.Label lblCategoriaT1;
         private System.Windows.Forms.Label label77;
         private System.Windows.Forms.Label label78;
         private System.Windows.Forms.PictureBox pictureBox12;
-        private System.Windows.Forms.Label label79;
+        private System.Windows.Forms.Label lblDbd;
         private System.Windows.Forms.Label label80;
+        public System.Windows.Forms.Label lblFIFA22;
+        public System.Windows.Forms.Label lblCodigoFifa;
+        public System.Windows.Forms.Label lblCategoriaD1;
+        public System.Windows.Forms.Label lblPrecioFifa;
     }
 }

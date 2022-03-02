@@ -10,12 +10,40 @@ using System.Windows.Forms;
 
 namespace Gameload_2
 {
-    struct Producto
+    struct Categoria
     {
         public string nombre;
         public string identificador;
+    }
+    struct Producto
+    {
+        public string nombre;
+        public Categoria tipoJuego;
         public string categoria;
-        public float precioUnitario;
+        public double precioUnitario;
+    }
+
+    struct Usuario
+    {
+        public string nombre;
+        public string apellido;
+        public int    cedula;
+    }
+
+    struct Fecha
+    {
+        public int dia;
+        public int mes;
+        public int anio;
+    }
+
+    struct Factura
+    {
+        public Usuario usuario;
+        public Fecha fecha;
+        public float subtotal;
+        public float IVA;
+        public float total;
     }
     public partial class Gameload : Form
     {
@@ -104,6 +132,11 @@ namespace Gameload_2
         private void btnInicio_Click(object sender, EventArgs e)
         {
             AbrirFormularios<FrmInicio>();
+        }
+
+        private void btnCarrito_Click(object sender, EventArgs e)
+        {
+            AbrirFormularios<FrmCarrito>();
         }
     }
 }
